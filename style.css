@@ -13,7 +13,7 @@ body {
   height: 100vh;
   width: 100vw;
   box-sizing: border-box;
-  display: flex;
+  display: flex; 
   flex-direction: row;
 }
 
@@ -30,7 +30,7 @@ body {
 }
 
 .txtnav {
-  color: rgb(49, 150, 190);
+  color:black;
   font-size: 2.6vw;
   margin-bottom: 5%;
   display: flex;
@@ -75,7 +75,7 @@ body {
   width: 80%;
 }
 
-.dropbtn {
+.lakes {
   background-color: rgba(253, 174, 17, 0.644);
   color: rgb(40, 136, 173);
   padding: 1vw;
